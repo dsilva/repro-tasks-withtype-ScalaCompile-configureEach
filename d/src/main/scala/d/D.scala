@@ -1,0 +1,4 @@
+package d
+
+trait D
+

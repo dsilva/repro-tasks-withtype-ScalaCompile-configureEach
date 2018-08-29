@@ -1,0 +1,4 @@
+package c
+
+trait C
+
