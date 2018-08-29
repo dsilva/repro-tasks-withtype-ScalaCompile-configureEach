@@ -1,6 +1,7 @@
 # repro-tasks-withtype-ScalaCompile-configureEach
 repro gradle build failures with `tasks.withType(ScalaCompile::class.java).configureEach`
 
+Reported as https://github.com/gradle/gradle/issues/6558
 
 This doesn't happen every time, but if you keep repeating the following then eventually this happens:
 
